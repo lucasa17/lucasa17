@@ -1,16 +1,20 @@
-## Hi there 👋
+## Perfil do Lucas Silva da Rosa
 
-<!--
-**lucasa17/lucasa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  Sobre Mim  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado (3º período)  
+- Prática de extensão em **Robótica e Automação**  
+- Bolsista do projeto **+Ciência nas Escolas**   
+
+---
+
+##  Tecnologias e Habilidades em Programação
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=dark)
+
+---
+
+##  Estatísticas do meu GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose1souza&show_icons=true&theme=dark)
