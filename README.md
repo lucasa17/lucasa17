@@ -4,6 +4,13 @@ Sou um desenvolvedor e estudante. Gosto de explorar diferentes linguagens e apre
 
 ---
 
+## 🏫 Formação
+
+**IFSULDEMINAS – Campus Machado**  
+Curso: Sistemas de Informação
+
+---
+
 ## 🛠️ Tecnologias que uso
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -14,6 +21,13 @@ Sou um desenvolvedor e estudante. Gosto de explorar diferentes linguagens e apre
 </div>
 
 ---
+
+
+## 📄 Currículo Lattes
+
+[Meu Currículo no Lattes](https://lattes.cnpq.br/5405322342840004)
+
+--- 
 
 ## 📊 GitHub Stats
 
