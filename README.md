@@ -1,17 +1,17 @@
-# 👋 Olá, eu sou o Lucas!
+# 👋 Hi, I'm Lucas!
 
-Sou um desenvolvedor e estudante. Gosto de explorar diferentes linguagens e aprender constantemente.
+I'm currently studying Information Systems at IFSULDEMINAS – Campus Machado, passionate about applying technology to solve real-world problems.
 
 ---
 
-## 🏫 Formação
+## 🏫 Education
 
 **IFSULDEMINAS – Campus Machado**  
-Curso: Sistemas de Informação
+Course: Information Systems
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Technologies I Use
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
@@ -22,12 +22,11 @@ Curso: Sistemas de Informação
 
 ---
 
+## 📄 Lattes CV
 
-## 📄 Currículo Lattes
+[My Lattes CV](https://lattes.cnpq.br/5405322342840004)
 
-[Meu Currículo no Lattes](https://lattes.cnpq.br/5405322342840004)
-
---- 
+---
 
 ## 📊 GitHub Stats
 
