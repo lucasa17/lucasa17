@@ -4,13 +4,6 @@ I'm currently studying Information Systems at IFSULDEMINAS – Campus Machado, p
 
 ---
 
-## 🏫 Education
-
-**IFSULDEMINAS – Campus Machado**  
-Course: Information Systems
-
----
-
 ## 🛠️ Technologies I Use
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
