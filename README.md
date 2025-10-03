@@ -21,6 +21,6 @@ I'm currently studying Information Systems at IFSULDEMINAS – Campus Machado, p
 
 ## 📊 GitHub Stats
 
-![lucasa17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasa17&show_icons=true&theme=dark)
+![lucasa17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasa17&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasa17&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasa17&layout=compact&theme=merko)
