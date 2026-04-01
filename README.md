@@ -24,6 +24,6 @@ I'm currently studying Information Systems at IFSULDEMINAS – Campus Machado, p
 ## 📊 GitHub Stats
 
 <div align="left">
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasa17&show_icons=true&theme=tokyonight"></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasa17&layout=compact&theme=tokyonight" /></td>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasa17&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasa17&layout=compact&theme=tokyonight"/>
 </div>
