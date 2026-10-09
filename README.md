@@ -18,7 +18,7 @@ I'm currently studying Information Systems at IFSULDEMINAS – Campus Machado, p
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
 </div>
-
+<!--
 ---
 
 ## 📊 GitHub Stats
